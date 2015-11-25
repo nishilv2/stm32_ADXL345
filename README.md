@@ -1,0 +1,3 @@
+# stm32_ADXL345
+stm32_interface_to_adxl345
+基本实现adxl345功能
